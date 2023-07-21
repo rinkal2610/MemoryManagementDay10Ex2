@@ -1,0 +1,8 @@
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\bin\Debug\MemoryManagementDay10Ex2.exe.config
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\bin\Debug\MemoryManagementDay10Ex2.exe
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\bin\Debug\MemoryManagementDay10Ex2.pdb
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\obj\Debug\MemoryManagementDay10Ex2.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\obj\Debug\MemoryManagementDay10Ex2.csproj.SuggestedBindingRedirects.cache
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\obj\Debug\MemoryManagementDay10Ex2.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\obj\Debug\MemoryManagementDay10Ex2.exe
+C:\DotNetTraining\Day10\MemoryManagementDay10Ex2\MemoryManagementDay10Ex2\obj\Debug\MemoryManagementDay10Ex2.pdb
